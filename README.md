@@ -12,7 +12,8 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 6. [Video](#video)
 
 ## System Architecture
-![system_architecture.png](assets%2Fsystem_architecture.png)
+![system_architecture](https://github.com/user-attachments/assets/aa6ea7a8-7222-457a-a53b-9b93c50047b1)
+
 
 ## Requirements
 - Python 3.9 (minimum)
